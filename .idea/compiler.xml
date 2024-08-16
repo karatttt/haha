@@ -23,7 +23,7 @@
       <module name="SMB" options="-parameters" />
       <module name="SMB-admin" options="-parameters" />
       <module name="SMB-commom" options="-parameters" />
-      <module name="SMB-doctor" options="-parameters" />
+      <module name="SMB-doctor" options="" />
       <module name="SmartMedicineBox" options="" />
       <module name="SmartMedicineBox (1)" options="-parameters" />
       <module name="SmartMedicineBox (2)" options="-parameters" />
